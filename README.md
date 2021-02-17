@@ -1,1 +1,1 @@
-# AdminPanelOny_laravel
+# OnlyAdminPanel_laravel
